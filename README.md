@@ -1,4 +1,4 @@
-# Predict Air Pollution - OLS Regression Fit
+# Predict Air Pollution PM10 - OLS Regression Fit
 
 This project were created to predict the air pollution in Thessaloniki for the next day. 
 We use previous day data, Multiple Linear Regression, Particularly OLS (Ordinary Least Squares) Regression Fit.
